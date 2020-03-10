@@ -1,3 +1,4 @@
+// Source: http://bit.ly/learning-go-00001
 package main
 
 import "fmt"

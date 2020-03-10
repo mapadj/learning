@@ -1,3 +1,4 @@
+// Source: http://bit.ly/learning-go-00001
 package main
 
 import (
@@ -9,7 +10,7 @@ import (
 func main() {
 
 	proverbs := []string{
-		"Channel orchhestrate muteses serialize",
+		"Channel orchhestrate mutexes serialize",
 		"Cgo is not Go",
 		"Errors are values",
 		"Don't panic",
