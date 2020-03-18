@@ -4,7 +4,7 @@ import "fmt"
 
 // A deadlock example
 
-func greet(chan string) {
+func greet(c chan string) {
 	<-c
 	<-c
 }
