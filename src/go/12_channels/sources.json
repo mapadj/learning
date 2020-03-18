@@ -1,0 +1,9 @@
+{
+"sources":[
+        {
+        "chapters": "01:21", 
+        "link": "https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb",
+        "author": "uday hiwarale"
+        }
+    ]
+}
